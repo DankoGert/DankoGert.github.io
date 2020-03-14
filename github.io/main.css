@@ -1,0 +1,10 @@
+main{
+	column-count: 4;
+	column-gap: 0px;
+}
+img{max-width:100%;
+display: block;
+}
+h1{text-align: center;
+margin: 70px
+}
